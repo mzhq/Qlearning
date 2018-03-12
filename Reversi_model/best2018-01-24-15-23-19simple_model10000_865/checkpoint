@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:\\class\\nndl\\final\\deeplearning\\Reversi_model\\best2018-01-24-15-23-19simple_model10000_865\\parameter.ckpt"
+all_model_checkpoint_paths: "F:\\class\\nndl\\final\\deeplearning\\Reversi_model\\best2018-01-24-15-23-19simple_model10000_865\\parameter.ckpt"
